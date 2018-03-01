@@ -1,0 +1,88 @@
+LZW.java		|original file size (kb)	|compressed file size (kb)	|compression ratio
+--------------------------------------------------------------------------------------------
+all.tar			|						2960|						1804|	1.640798226
+assig2.doc		|						85	|						73	|	1.164383562
+bmps.tar		|						1080|						904	|	1.194690265
+code.txt		|						71	|						31	|	2.290322581
+code2.txt		|						57	|						24	|	2.375
+edit.exe		|						231	|						245	|	0.942857143
+frosty.jpg		|						124	|						174	|	0.712643678
+gone_fishing.bmp|						17	|						10	|	1.7
+large.txt		|						1193|						591	|	2.018612521
+Lego-big.gif	|						92	|						126	|	0.73015873
+medium.txt		|						25	|						13	|	1.923076923
+texts.tar		|						1350|						989	|	1.365015167
+wacky.bmp		|						901	|						5	|	180.2
+winnt256.bmp	|						154	|						156	|	0.987179487
+
+			
+MyLZW (n)		|original file size (kb)	|compressed file size (kb)	|compression ratio
+--------------------------------------------------------------------------------------------
+all.tar			|						2960|						377	|	7.851458886
+assig2.doc		|						85	|						40	|	2.125
+bmps.tar		|						1080|						80	|	13.5
+code.txt		|						71	|						24	|	2.958333333
+code2.txt		|						57	|						21	|	2.714285714
+edit.exe		|						231	|						140	|	1.65
+frosty.jpg		|						124	|						157	|	0.789808917
+gone_fishing.bmp|						17	|						9	|	1.888888889
+large.txt		|						1193|						300	|	3.976666667
+Lego-big.gif	|						92	|						120	|	0.766666667
+medium.txt		|						25	|						13	|	1.923076923
+texts.tar		|   					1350|						288	|	4.6875
+wacky.bmp		|						901	|						4	|	225.25
+winnt256.bmp	|						154	|						62	|	2.483870968
+
+			
+MyLZW (r)		|original file size (kb)	|compressed file size (kb)	|compression ratio
+--------------------------------------------------------------------------------------------
+all.tar			|						2960|						1151|	2.571676803
+assig2.doc		|						85	|						40	|	2.125
+bmps.tar		|						1080|						80	|	13.5
+code.txt		|						71	|						24	|	2.958333333
+code2.txt		|						57	|						21	|	2.714285714
+edit.exe		|						231	|						149	|	1.55033557
+frosty.jpg		|						124	|						168	|	0.738095238
+gone_fishing.bmp|						17	|						9	|	1.888888889
+large.txt		|						1193|						516	|	2.312015504
+Lego-big.gif	|						92	|						120	|	0.766666667
+medium.txt		|						25	|						13	|	1.923076923
+texts.tar		|						1350|						577	|	2.339688042
+wacky.bmp		|						901	|						4	|	225.25
+winnt256.bmp	|						154	|						62	|	2.483870968
+
+			
+MyLZW (m)		|original file size (kb)	|compressed file size (kb)	|compression ratio
+--------------------------------------------------------------------------------------------
+all.tar			|						2960|						377	|	7.851458886
+assig2.doc		|						85	|						40	|	2.125
+bmps.tar		|						1080|						80	|	13.5
+code.txt		|						71	|						24	|	2.958333333
+code2.txt		|						57	|						21	|	2.714285714
+edit.exe		|						231	|						140	|	1.65
+frosty.jpg		|						124	|						157	|	0.789808917
+gone_fishing.bmp|						17	|						9	|	1.888888889
+large.txt		|						1193|						300	|	3.976666667
+Lego-big.gif	|						92	|						120	|	0.766666667
+medium.txt		|						25	|						13	|	1.923076923
+texts.tar		|						1350|						288	|	4.6875
+wacky.bmp		|						901	|						4	|	225.25
+winnt256.bmp	|						154	|						62	|	2.483870968
+
+			
+WinZip			|original file size (kb)	|compressed file size (kb)	|compression ratio
+--------------------------------------------------------------------------------------------
+all.tar			|						2960|						958 |	3.089770355
+assig2.doc		|						85	|						23	|	3.695652174
+bmps.tar		|						1080|						64  |	16.875
+code.txt		|						71	|						16	|	4.4375
+code2.txt		|						57	|						14	|	4.071428571
+edit.exe		|						231	|						125	|	1.848
+frosty.jpg		|						124	|						124	|	1
+gone_fishing.bmp|						17	|						9	|	1.888888889
+large.txt		|						1193|						490	|	2.434693877
+Lego-big.gif	|						92	|						91	|	1.010989011
+medium.txt		|						25	|						11	|	2.272727273
+texts.tar		|						1350|						531 |	2.542372881
+wacky.bmp		|						901	|						2	|	450.5
+winnt256.bmp	|						154	|						50	|	3.08
